@@ -1,0 +1,3 @@
+[submodule "trt_pose_plus"]
+	path = trt_pose_plus
+	url = https://github.com/Robotics-Ro/trt_pose_plus.git
